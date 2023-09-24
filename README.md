@@ -1,4 +1,4 @@
-# N-ANOM
+# Anony_SMS
 <b>N-ANOM<b> is a tool to send sms anonymously
 
 ```
@@ -9,7 +9,7 @@
   
   $ pkg install python && pkg install python2 -y
   
-  $ git clone https://github.com/Nabil-Official/N-ANOM
+  $ git clone https://github.com/Saurabh1973/Anony_SMS/Anony_SMS.git
   
   $ pip3 install requests
   
