@@ -20,5 +20,5 @@
 
 ```
 
-![N-ANOM](https://j.top4top.io/p_1905o7ugw0.png)
+![Anony_SMS](https://j.top4top.io/p_1905o7ugw0.png)
 
