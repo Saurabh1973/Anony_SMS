@@ -1,5 +1,5 @@
 # Anony_SMS
-<b>N-ANOM<b> is a tool to send sms anonymously
+<b>Anony_SMS<b> is a tool to send sms anonymously
 
 ```
   
